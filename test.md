@@ -5,7 +5,8 @@ case 1: return parseInt(Math.random()*under+1);
 case 2: return parseInt(Math.random()*(over-under+1) + under); 
 default: return 0; 
 } 
-
+</code>
+</p>
 function randomSort(a,b){
            var tmp = Math.round(Math.random());
 
@@ -26,8 +27,7 @@ function randomSort(a,b){
           return tmp?a.ID-b.ID:b.ID-a.ID;
 
       }
-</code>
-</p>
+
 
 
 
