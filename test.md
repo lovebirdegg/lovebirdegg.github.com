@@ -1,5 +1,5 @@
 <p>
-  <<code>
+  <code>
 function fRandomBy(under, over){ switch(arguments.length){ 
 case 1: return parseInt(Math.random()*under+1); 
 case 2: return parseInt(Math.random()*(over-under+1) + under); 
@@ -26,7 +26,7 @@ function randomSort(a,b){
           return tmp?a.ID-b.ID:b.ID-a.ID;
 
       }
-  </code>
+</code>
 </p>
 
 
