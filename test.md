@@ -1,3 +1,5 @@
+
+# JavaScript生成随机数和Math方法
 <p>
   <code>
 function fRandomBy(under, over){ switch(arguments.length){ 
