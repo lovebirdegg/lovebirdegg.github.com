@@ -1,4 +1,3 @@
-<meta property="wb:webmaster" content="87fa09dcb3b192b2" />
 ---
 layout: page
 title: Hello World!
